@@ -1,2 +1,2 @@
 # make-operating-system-
-record my system learning
+record my operating system learning
